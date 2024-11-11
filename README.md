@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently study at Tongji University
-- 🌱 I’m currently learning Data Science and Big Data Technology
+- 🔭 I’m graduated from Tongji Universuty and currently study at National University of Singapore
+- 🌱 My bachelor is about Data Science and Big Data Technology and currently major in Digital Finance.
 - 📫 How to reach me: 2315902845@qq.com
--->
-- 🔭 I’m currently study at Tongji University
-- 🌱 I’m currently learning Data Science and Big Data Technology
-- 📫 How to reach me: 2315902845@qq.com
+
